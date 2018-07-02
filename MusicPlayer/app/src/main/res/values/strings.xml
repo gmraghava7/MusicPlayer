@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Music Player</string>
+    <string name="m1">You have not subscribed.</string>
+    <string name="m2">For subscription click here</string>
+    <string name="p1">Select the packs you want</string>
+    <string name="p2">This one costs $20 for ONE month.</string>
+    <string name="p3">This one costs $50 for THREE months.</string>
+    <string name="p4">This one costs $80 for SIX month.</string>
+    <string name="p5">This one costs $120 for ONE YEAR.</string>
+</resources>
